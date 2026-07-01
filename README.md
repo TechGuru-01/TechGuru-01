@@ -5,23 +5,38 @@
 </p>
 
 <h3 align="left">
-Computer Engineering Student • AI Engineer • Fullstack Developer • Computer Vision Enthusiast
+AI Engineer • Full Stack Developer • Computer Vision Engineer
 </h3>
 
-I'm a Computer Engineering student passionate about building intelligent systems that combine **Artificial Intelligence, Fullstack Web Development, Computer Vision, and Embedded Systems**. I enjoy solving real-world problems by integrating software, cloud services, and hardware into practical applications.
+I'm a software developer passionate about building intelligent applications powered by **Artificial Intelligence, Computer Vision, and modern web technologies.**
+
+I enjoy creating complete solutions—from responsive web applications and scalable APIs to AI-powered systems and embedded devices. My goal is to build software that solves real-world problems through clean architecture, automation, and practical machine learning.
 
 ---
 
-# 🚀 About Me
+# 🚀 What I Do
 
-- 🔭 Currently improving my **Fullstack Web Development** and backend engineering skills.
-- 🌱 Learning **System Design, Microservices, Docker, CUDA, and scalable backend architectures.**
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.**
-- 💻 Building projects using **Python, JavaScript, React, FastAPI, Node.js, and PHP.**
-- 🔌 Experienced with **Arduino, Raspberry Pi, Firebase, and IoT systems.**
-- 🤝 Open to collaborating on **AI, Fullstack, Open Source, and Embedded Systems** projects.
-- 💬 Ask me about **Computer Vision, AI, Web Development, Python, Java, or Embedded Programming.**
-- ⚡ Fun Fact: I love creating systems where AI, cloud services, and tiny embedded devices work together seamlessly.
+- 🤖 Build AI and Computer Vision applications
+- 🌐 Develop modern full-stack web applications
+- ⚙️ Design scalable backend APIs and services
+- 🔌 Integrate software with IoT and embedded devices
+- 🐳 Containerize and deploy applications using Docker
+- ☁️ Build cloud-connected systems
+
+---
+
+# 💼 Currently Looking For
+
+I'm actively seeking opportunities as a
+
+- AI Engineer
+- Computer Vision Engineer
+- Python Developer
+- Backend Developer
+- Full Stack Developer
+- Software Engineer
+
+I'm open to **remote**, **hybrid**, and **on-site** positions.
 
 ---
 
@@ -29,7 +44,7 @@ I'm a Computer Engineering student passionate about building intelligent systems
 
 <p align="left">
 
-<a href="https://linkedin.com/in/Elijah-Boon" target="_blank">
+<a href="https://linkedin.com/in/Elijah-Boon">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -37,12 +52,8 @@ I'm a Computer Engineering student passionate about building intelligent systems
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/_eli421" target="_blank">
+<a href="https://instagram.com/_eli421">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://facebook.com/Elijah.Boon" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </p>
@@ -51,33 +62,33 @@ I'm a Computer Engineering student passionate about building intelligent systems
 
 # 💻 Tech Stack
 
-## 🚀 Programming Languages
+## Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,php,html,css" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,cpp,c,html,css"/>
 </p>
 
 ---
 
-## 🌐 Frontend Development
+## Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript"/>
 </p>
 
 ---
 
-## ⚙️ Backend Development
+## Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php,apache" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,php"/>
 </p>
 
 ---
 
-## 🤖 Artificial Intelligence • Machine Learning • Computer Vision
+## AI • Machine Learning • Computer Vision
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
 
@@ -99,121 +110,106 @@ I'm a Computer Engineering student passionate about building intelligent systems
 
 ---
 
-## 🗄️ Databases & Cloud
+## Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,supabase"/>
 </p>
 
 ---
 
-## 🛠️ DevOps & Tools
+## DevOps & Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,cmake,postman,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,postman,vscode,cmake"/>
 </p>
 
 ---
 
-## 🔌 Hardware & Embedded Systems
+## Embedded Systems
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TechGuru-01&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechGuru-01&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=TechGuru-01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGuru-01&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TechGuru-01&theme=tokyonight&margin-w=10&margin-h=10&column=4"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🚗 **AI Driver Monitoring System** | Deep learning-based driver drowsiness detection using Computer Vision, LSTM, TensorFlow Lite, and Raspberry Pi. |
-| ☕ **Pop Café Website** | A modern responsive website showcasing the café's menu, branding, and customer experience. |
-| 📦 **Inventory Management System** | A fullstack inventory system built with PHP, MySQL, and responsive web technologies. |
-| 🤟 **AI Sign Language Recognition Glove** | Arduino-powered wearable device that translates sign language into speech using AI. |
+## 🚗 AI Driver Monitoring System
+
+Deep learning-based driver monitoring system capable of detecting:
+
+- Driver drowsiness
+- Yawning
+- Head pose estimation
+- Face recognition
+- Driver authentication
+- TensorFlow Lite deployment
+- Raspberry Pi integration
+
+**Tech Stack**
+
+`Python` `TensorFlow` `PyTorch` `MediaPipe` `OpenCV` `CUDA`
 
 ---
 
-# 💡 Areas of Interest
+## ☕ Pop Café Website
 
-```text
-🤖 Artificial Intelligence
-👁️ Computer Vision
-🧠 Machine Learning
-📷 Deep Learning
-🌐 Fullstack Development
-⚙️ Backend Engineering
-☁️ Cloud Computing
-📱 REST APIs
-🔌 Embedded Systems
-📡 IoT
-🐳 Docker
-⚡ CUDA
-```
+A modern business website featuring:
+
+- Responsive UI
+- Menu showcase
+- Brand storytelling
+- Business portfolio
+- Contact integration
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-# 📫 Let's Connect!
+## 📦 Inventory Management System
 
-I'm always interested in collaborating on exciting projects involving:
+A complete inventory solution featuring:
 
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🌐 Fullstack Web Development
-- 🔌 Embedded Systems
-- ☁️ Cloud Technologies
-- 🚀 Open Source
+- Authentication
+- Dashboard
+- CRUD Operations
+- Inventory Tracking
+- Reporting
 
-Feel free to reach out!
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript`
 
 ---
+
+## 🤟 AI Sign Language Recognition Glove
+
+Smart wearable capable of translating sign language into speech using machine learning and embedded sensors.
+
+**Tech Stack**
+
+`Arduino` `Python` `TensorFlow` `Bluetooth`
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
-
-### 💭 Quote
-
-> *"Turning ideas into intelligent systems through software, AI, and embedded technology."*
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGuru-01&theme=tokyo-night"/>
 </p>
+
+---
+
+# 📫 Let's Connect
+
+If you're looking for someone to build AI applications, backend systems, computer vision solutions, or full-stack software, I'd love to connect.
+
+Feel free to reach out via **LinkedIn** or **Email**.
+
+---
+
+> **"Building intelligent software that bridges AI, cloud, and embedded systems."**
