@@ -8,22 +8,26 @@
 
 ## 💫 About Me
 
+## 💫 About Me
+
+## 💫 About Me
+
 <table>
   <tr>
     <td>🔭 <b>Current Focus:</b></td>
-    <td>I’m currently working on ...</td>
+    <td>I’m currently working on sharpening my web development skills by engineering scalable backend systems and responsive web applications.</td>
   </tr>
   <tr>
     <td>🌱 <b>Learning Path:</b></td>
-    <td>I’m currently deepening my knowledge in ...</td>
+    <td>I’m currently deepening my knowledge in advanced backend architecture, microservices, and optimizing deep learning models using CUDA.</td>
   </tr>
   <tr>
     <td>👯 <b>Collaboration:</b></td>
-    <td>I’m looking to collaborate on open-source projects involving ...</td>
+    <td>I’m looking to collaborate on open-source projects involving fullstack web applications, REST APIs, or AI-driven software.</td>
   </tr>
   <tr>
     <td>🤝 <b>Seeking Help With:</b></td>
-    <td>I’m looking for mentorship or assistance with ...</td>
+    <td>I’m looking for mentorship or assistance with complex system design patterns and streamlining production deployments with Docker.</td>
   </tr>
   <tr>
     <td>💬 <b>Let's Chat About:</b></td>
@@ -31,10 +35,9 @@
   </tr>
   <tr>
     <td>⚡ <b>Fun Fact:</b></td>
-    <td>...</td>
+    <td>I can write code to run on a browser, a powerful cloud server, or a tiny $5 microchip—and I love making them all talk to each other!</td>
   </tr>
 </table>
-
 ---
 
 ## 🌐 Connect With Me
