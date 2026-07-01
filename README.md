@@ -61,12 +61,15 @@
 </p>
 
 ### 🧠 AI, Data Science & Computer Vision
-
 <p align="left">
-  <!-- Line 1: Main AI & CV frameworks -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI & Data Science" />
-  <!-- Line 2: Your data analysis stack (Pandas, NumPy, Matplotlib) -->
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,matplotlib" alt="Data Science Libs" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI Core" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="48px" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" height="48px" alt="CUDA" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" alt="Data Core" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="48px" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" height="48px" alt="Matplotlib" />
 </p>
 
 ### 🗄️ Databases & Cloud
