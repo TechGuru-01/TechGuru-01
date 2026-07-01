@@ -6,12 +6,11 @@
 
 ---
 
-##  About Me
-
+## 💫 About Me
 
 <table>
   <tr>
-    <td>🔭 <b>Current Focus:</b></td>
+    <td>🔬 <b>Current Focus:</b></td>
     <td>I’m currently working on sharpening my web development skills by engineering scalable backend systems and responsive web applications.</td>
   </tr>
   <tr>
@@ -35,9 +34,10 @@
     <td>I can write code to run on a browser, a powerful cloud server, or a tiny $5 microchip—and I love making them all talk to each other!</td>
   </tr>
 </table>
+
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/Elijah-Boon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -48,7 +48,7 @@
 
 ---
 
-##  Tech Stack
+## 💻 Tech Stack
 
 ### 🚀 Core Languages
 <p align="left">
@@ -62,14 +62,11 @@
 
 ### 🧠 AI, Data Science & Computer Vision
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="AI Core" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="48px" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white" height="48px" alt="CUDA" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" alt="Data Core" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" height="48px" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" height="48px" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy" alt="AI & Data Stack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="50" height="50" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" height="46" style="vertical-align: middle; margin: 0 4px;" />
+  <img src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white" height="46" style="vertical-align: middle; margin: 0 4px;" />
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -85,4 +82,13 @@
 ### 🔌 Hardware & Embedded Systems
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=elijahboon986&show_icons=true&theme=visual&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijahboon986&layout=compact&theme=visual" alt="Top Languages" height="180px" />
 </p>
