@@ -61,11 +61,11 @@
 </p>
 
 ### 🧠 AI, Data Science & Computer Vision
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,opencv" alt="AI & Data Science" />
-  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="48px" style="vertical-align:top; margin-left: 4px;" />
-</p>
-<p align="left">
+  <!-- Line 1: Main AI & CV frameworks -->
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="AI & Data Science" />
+  <!-- Line 2: Your data analysis stack (Pandas, NumPy, Matplotlib) -->
   <img src="https://skillicons.dev/icons?i=pandas,numpy,scipy,matplotlib" alt="Data Science Libs" />
 </p>
 
