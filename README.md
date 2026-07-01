@@ -134,67 +134,7 @@ I'm open to **remote**, **hybrid**, and **on-site** positions.
 
 ---
 
-# 🚀 Featured Projects
 
-## 🚗 AI Driver Monitoring System
-
-Deep learning-based driver monitoring system capable of detecting:
-
-- Driver drowsiness
-- Yawning
-- Head pose estimation
-- Face recognition
-- Driver authentication
-- TensorFlow Lite deployment
-- Raspberry Pi integration
-
-**Tech Stack**
-
-`Python` `TensorFlow` `PyTorch` `MediaPipe` `OpenCV` `CUDA`
-
----
-
-## ☕ Pop Café Website
-
-A modern business website featuring:
-
-- Responsive UI
-- Menu showcase
-- Brand storytelling
-- Business portfolio
-- Contact integration
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
----
-
-## 📦 Inventory Management System
-
-A complete inventory solution featuring:
-
-- Authentication
-- Dashboard
-- CRUD Operations
-- Inventory Tracking
-- Reporting
-
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript`
-
----
-
-## 🤟 AI Sign Language Recognition Glove
-
-Smart wearable capable of translating sign language into speech using machine learning and embedded sensors.
-
-**Tech Stack**
-
-`Arduino` `Python` `TensorFlow` `Bluetooth`
-
----
 
 # 📈 GitHub Activity
 
