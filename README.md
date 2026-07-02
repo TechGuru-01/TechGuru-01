@@ -5,10 +5,10 @@
 </p>
 
 <h3 align="left">
-AI Engineer • Full Stack Developer • Computer Vision Engineer
+Computer Engineer
 </h3>
 
-I'm a software developer passionate about building intelligent applications powered by **Artificial Intelligence, Computer Vision, and modern web technologies.**
+I'm a Computer Engineer passionate about building intelligent applications powered by **Artificial Intelligence, Computer Vision, and modern web technologies.**
 
 I enjoy creating complete solutions—from responsive web applications and scalable APIs to AI-powered systems and embedded devices. My goal is to build software that solves real-world problems through clean architecture, automation, and practical machine learning.
 
