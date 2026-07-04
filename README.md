@@ -52,7 +52,7 @@ Open to remote, hybrid, and on-site positions.
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/Elijah-Boon](https://linkedin.com/in/Elijah-Boon)
+- **LinkedIn:** [linkedin.com/in/Elijah-Boon](linkedin.com/in/elijah-boon-6000383ab)
 - **Email:** [elijahboon986@gmail.com](mailto:elijahboon986@gmail.com)
 
 If you're looking for someone to build AI applications, backend systems, computer vision solutions, or full-stack software, I'd welcome the opportunity to connect.
