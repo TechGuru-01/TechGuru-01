@@ -2,7 +2,7 @@
 
 **Computer Engineer — AI, Computer Vision & Full-Stack Development**
 
-I build intelligent, production-ready software that connects artificial intelligence, computer vision, and modern web technologies. My work spans responsive web applications, scalable backend APIs, AI-powered systems, and embedded/IoT devices. I focus on clean architecture, automation, and practical machine learning to solve real-world problems.
+I am an aspiring Software Developer, production-ready software that connects artificial intelligence, computer vision, and modern web technologies. My work spans responsive web applications, scalable backend APIs, AI-powered systems, and embedded/IoT devices. I focus on clean architecture, automation, and practical machine learning to solve real-world problems.
 
 ---
 
