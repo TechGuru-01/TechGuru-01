@@ -2,7 +2,7 @@
 
 **Computer Engineer — AI, Computer Vision & Full-Stack Development**
 
-I am an aspiring Software Developer, production-ready software that connects artificial intelligence, computer vision, and modern web technologies. My work spans responsive web applications, scalable backend APIs, AI-powered systems, and embedded/IoT devices. I focus on clean architecture, automation, and practical machine learning to solve real-world problems.
+I am an aspiring Software Developer dedicated to building production-ready software that connects artificial intelligence, computer vision, and modern web technologies. My work spans responsive web applications, scalable backend APIs, AI-powered systems, and embedded IoT devices. I focus on clean architecture, automation, and practical machine learning to solve real-world problems.
 
 ---
 
@@ -13,7 +13,6 @@ I am an aspiring Software Developer, production-ready software that connects art
 - Design and scale backend APIs and services
 - Integrate software with IoT and embedded devices
 - Containerize and deploy applications using Docker
-- Build cloud-connected systems
 
 ---
 
@@ -21,7 +20,6 @@ I am an aspiring Software Developer, production-ready software that connects art
 
 I am actively looking for opportunities in the following roles:
 
-- AI Engineer
 - Computer Vision Engineer
 - Python Developer
 - Backend Developer
@@ -46,7 +44,9 @@ Open to remote, hybrid, and on-site positions.
 
 **DevOps & Tools:** Docker, Git, GitHub, GitHub Actions, Vercel, Netlify, Postman, VS Code, CMake
 
-**Embedded Systems:** Arduino, Raspberry Pi
+**Embedded Systems:** Arduino, Raspberry Pi, Jetson Orin Nano
+
+**AI Tools:** ChatGpt, Gemeni, Claude, AI Studio
 
 ---
 
