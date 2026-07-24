@@ -38,7 +38,7 @@ Open to remote, hybrid, and on-site positions.
 
 **Backend:** Node.js, Express, FastAPI, Flask, PHP
 
-**AI / Machine Learning / Computer Vision:** PyTorch, TensorFlow, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib, SciPy, Jupyter, CUDA
+**AI / Machine Learning / Computer Vision:** PyTorch, OpenCV, NumPy, Pandas, Scikit-learn, Matplotlib, SciPy, Jupyter, CUDA
 
 **Databases:** MySQL, PostgreSQL, SQLite, Firebase, Supabase
 
